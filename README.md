@@ -2,6 +2,7 @@
 Keywords: XML Descriptions, XML elements, XML mapping pane, content control titles and tags, content control properties, 
 
 This project was my first Add for Microsoft Word. 
+![1_Ribbon](davidvelagithub.com/XML_Descriptor_Word/blob/master/1_Ribbon.png)
 
 It contains: 
 
