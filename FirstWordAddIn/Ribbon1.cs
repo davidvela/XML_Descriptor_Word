@@ -93,7 +93,7 @@ namespace FirstWordAddIn
             //ContentControls ContentControls { get; }
             //Microsoft.Office.Interop.Word.ContentControls ContentControls { get; }
 
-            foreach (word.Section wordSection in myDoc.Sections)
+            foreach (word.Section wordSection in myDoc.Sections) 
             {
                 var footer = wordSection.Footers[word.WdHeaderFooterIndex.wdHeaderFooterPrimary];
                 var header = wordSection.Headers[word.WdHeaderFooterIndex.wdHeaderFooterPrimary];
